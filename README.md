@@ -6,6 +6,7 @@ Download and install superBLT from https://superblt.znix.xyz/
 
 Put hook and hookloc folder inside your mods folder usually located at "C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\mods"
 
+----------------------------------------------------------------------
 
 Update 1. 24.06.2020
 
