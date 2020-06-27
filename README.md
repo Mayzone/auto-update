@@ -11,9 +11,13 @@ Put hook and hookloc folder inside your mods folder usually located at "C:\Progr
 Update 2. 28.06.2020
 
 Added answer pager client side in mission menu
+
 Added auto pager when shooting while snitcher is on
+
 Added car shop in misison menu
+
 Added total secured loot display when keybind used
+
 Added mark and iintimidate enemy in civilian mode
 
 
