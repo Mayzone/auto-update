@@ -18,7 +18,7 @@ Added auto pager when shooting while snitcher is on
 
 Added car shop in misison menu
 
-Added total secured loot display when keybind used
+Added total secured loot display
 
 Added mark and intimidate enemy in civilian mode
 
