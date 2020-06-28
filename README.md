@@ -4,9 +4,22 @@ Install instructions:
 
 Download and install superBLT from https://superblt.znix.xyz/
 
-Put hook and hookloc folder inside your mods folder usually located at "C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\mods"
+Put hook and hookloc folder from hook.zip inside your mods folder usually located at "C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\mods"
 
 ----------------------------------------------------------------------
+
+Update 2. 28.06.2020
+
+Added answer pager client side in mission menu
+
+Added auto pager when shooting while snitcher is on
+
+Added car shop in misison menu
+
+Added total secured loot display when keybind used
+
+Added mark and iintimidate enemy in civilian mode
+
 
 Update 1. 24.06.2020
 
