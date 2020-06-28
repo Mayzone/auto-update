@@ -10,6 +10,8 @@ Put hook and hookloc folder from hook.zip inside your mods folder usually locate
 
 Update 2. 28.06.2020
 
+Added custom join msg with command using \automsg host/client (anything)
+
 Added answer pager client side in mission menu
 
 Added auto pager when shooting while snitcher is on
