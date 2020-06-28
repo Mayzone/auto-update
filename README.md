@@ -10,7 +10,7 @@ Put hook and hookloc folder from hook.zip inside your mods folder usually locate
 
 Update 2. 28.06.2020 (Require fresh install)
 
-Added custom join msg with command using \automsg host/client (anything)
+Added custom join msg with command using \automsg host/client (any msg you want, replace space with _)
 
 Added answer pager client side in mission menu
 
