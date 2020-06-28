@@ -20,7 +20,7 @@ Added car shop in misison menu
 
 Added total secured loot display when keybind used
 
-Added mark and iintimidate enemy in civilian mode
+Added mark and intimidate enemy in civilian mode
 
 
 Update 1. 24.06.2020
