@@ -8,7 +8,7 @@ Put hook and hookloc folder from hook.zip inside your mods folder usually locate
 
 Start game. All keybinds can be configured in "options" then "mod keybinds".
 
-Change your name back by writing this line into game chat "\steamn reset".
+Optionally you can change your name back by writing this line into game chat "\steamn reset".
 
 For more commands, checkout "\h".
 
