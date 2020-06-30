@@ -6,6 +6,12 @@ Download and install superBLT from https://superblt.znix.xyz/
 
 Put hook and hookloc folder from hook.zip inside your mods folder usually located at "C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\mods"
 
+Start game. All keybinds can be configured in "options" then "mod keybinds".
+
+Change your name back by writing this line into game chat "\steamn reset".
+
+For more commands, checkout "\h".
+
 ----------------------------------------------------------------------
 
 Update 2. 28.06.2020 (Require fresh install)
