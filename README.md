@@ -6,11 +6,17 @@ Download and install superBLT from https://superblt.znix.xyz/
 
 Put hook and hookloc folder from hook.zip inside your mods folder usually located at "C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\mods"
 
+Start game. All keybinds can be configured in "options" then "mod keybinds".
+
+Optionally you can change your name back by writing this line into game chat "\steamn reset".
+
+For more commands, checkout "\h".
+
 ----------------------------------------------------------------------
 
-Update 2. 28.06.2020
+Update 2. 28.06.2020 (Require fresh install)
 
-Added custom join msg with command using \automsg host/client (anything)
+Added custom join msg with command using \automsg host/client (any msg you want, replace space with _)
 
 Added answer pager client side in mission menu
 
@@ -18,9 +24,9 @@ Added auto pager when shooting while snitcher is on
 
 Added car shop in misison menu
 
-Added total secured loot display when keybind used
+Added total secured loot display
 
-Added mark and iintimidate enemy in civilian mode
+Added mark and intimidate enemy in civilian mode
 
 
 Update 1. 24.06.2020
