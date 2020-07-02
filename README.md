@@ -16,7 +16,13 @@ For more commands, checkout "\h".
 
 Update 2. 28.06.2020 (Require fresh install)
 
-Added custom join msg with command using \automsg host/client (any msg you want, replace space with _)
+Fixed sixth sense and chameleon skills
+
+Added mask off as default state, civilian state can still interact with objects
+
+Added \ps command (pager snitch)
+
+Added custom join msg with command using \automsg host/client (any message)
 
 Added answer pager client side in mission menu
 
