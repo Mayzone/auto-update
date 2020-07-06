@@ -1,4 +1,4 @@
-# auto-update instructions and big update log
+# Install instructions and big update log
 
 Install instructions:
 
