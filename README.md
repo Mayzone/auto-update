@@ -14,15 +14,11 @@ For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
 
-<<<<<<< HEAD
-Update 2. 26.09.2020
-=======
 Update 3. 26.09.2020
 
 Added snatch pager projectile
 
 Fixed \list and \steamn command
->>>>>>> 100322ac4adf032093fc70e9c52f5e117fdc0822
 
 Fixed convert crash/disconnect
 
