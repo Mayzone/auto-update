@@ -14,6 +14,15 @@ For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
 
+Update 2. 26.09.2020
+
+Fixed convert crash/disconnect
+
+Graze skill ignores civilians
+
+Kill all units, kills converted
+
+
 Update 2. 28.06.2020 (Require fresh install)
 
 Fixed sixth sense and chameleon skills
