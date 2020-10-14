@@ -16,6 +16,10 @@ For more commands, checkout "\h".
 
 Update 3. 26.09.2020
 
+Added snatch pager projectile
+
+Fixed \list and \steamn command
+
 Fixed convert crash/disconnect
 
 Graze skill ignores civilians
