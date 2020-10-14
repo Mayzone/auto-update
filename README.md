@@ -4,7 +4,7 @@ Install instructions:
 
 Download and install superBLT from https://superblt.znix.xyz/
 
-Put hook and hookloc folder from hook.zip inside your mods folder usually located at "C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\mods"
+Put hook and hookloc folder from hook.zip inside your mods folder usually located at "C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2"
 
 Start game. All keybinds can be configured in "options" then "mod keybinds".
 
@@ -14,7 +14,15 @@ For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
 
+<<<<<<< HEAD
 Update 2. 26.09.2020
+=======
+Update 3. 26.09.2020
+
+Added snatch pager projectile
+
+Fixed \list and \steamn command
+>>>>>>> 100322ac4adf032093fc70e9c52f5e117fdc0822
 
 Fixed convert crash/disconnect
 
