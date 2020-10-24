@@ -16,6 +16,26 @@ For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
 
+Update 4. 24.10.2020
+
+Improved \afk
+
+Improved noclip, autosecure, automsg, crosshair
+
+Improved cpu performance
+
+Fixed crimespree level button
+
+Added autocooker for rat lab
+
+Added server checks to prevent crashes
+
+Added crimespree reset button
+
+Added halfass perk reset button
+
+Removed persist script
+
 Update 3. 26.09.2020
 
 Added snatch pager projectile
