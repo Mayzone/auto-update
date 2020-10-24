@@ -16,7 +16,7 @@ For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
 
-Update 4. 24.10.2020
+Update 4. 24.10.2020 (Require fresh install)
 
 Improved \afk
 
