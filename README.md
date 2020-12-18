@@ -16,6 +16,14 @@ For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
 
+Update 5. 18.12.2020 (Require fresh install)
+
+Fixed bugs and crashes
+
+Added better anit cheats
+
+Added more menu buttons
+
 Update 4. 24.10.2020 (Require fresh install)
 
 Improved \afk
