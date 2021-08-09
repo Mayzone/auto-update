@@ -15,6 +15,47 @@ Optionally you can change your name back by writing this line into game chat "\s
 For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
+Update 6. 9.08.2021 (Require fresh install)
+
+Added tag team now works through walls
+
+Added drills can be melee hit without kickstarter skill
+
+Added toggle for trainer buffs in main menu
+
+Added breaking feds helper
+
+Added better chat commands code, able to scroll throught more commands
+
+Added auto stoic flask and stoic for armor (can be changed in stoic.lua)
+
+Added first load check, to show your correct name before spoofing it
+
+Added a anti spoofname check to find people who spoofname
+
+Added infamy keybind
+
+Added auto pickup sentries on low ammo or health
+
+Added a better ecm spawning with settings in ecm.lua
+
+Added fire aura to magic menu
+
+Added command to spoof level and rank with \rankn 1 20 or \leveln 1 100
+
+Added start/end assault in mission menu
+
+Added new improved aimbot shoot/aim version, settings in aimbot1.lua
+
+Fixed carrystacker client kicking you randomly
+
+Fixed experience hud and cleaned it
+
+Fixed crash related to not having weapon skin dlc and choosing a custom skin
+
+Fixed xray removing converted highlight when toggled off
+
+Fixed xray bugging on buluc
 
 Update 5. 18.12.2020 (Require fresh install)
 
