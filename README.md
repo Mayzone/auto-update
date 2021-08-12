@@ -6,7 +6,7 @@ Download and install superBLT from https://superblt.znix.xyz/
 
 Put hook and hookloc folder from hook.zip inside your mods folder usually located at "C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2"
 
-This mod included MoreAFK mod. Remove MoreAFK if you have them.
+This mod included MoreAFK mod. Remove MoreAFK if you have it.
 
 Start game. All keybinds can be configured in "options" then "mod keybinds".
 
