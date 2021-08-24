@@ -15,6 +15,10 @@ Optionally you can change your name back by writing this line into game chat "\s
 For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
+Update 7. 24.08.2021
+
+Fixed DLC unlocker crash caused by a conflicting mod
+
 Update 6. 9.08.2021 (Require fresh install)
 
 Added tag team now works through walls
