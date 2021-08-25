@@ -15,6 +15,14 @@ Optionally you can change your name back by writing this line into game chat "\s
 For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
+Update 8. 25.08.2021
+
+Fixed lag with previous issue
+
+Added better special equipment stacker
+
+Added spoof level and rank with /leveln and /rankn. The spoofer now spoofs everything except join message
+
 Update 7. 24.08.2021
 
 Fixed DLC unlocker crash caused by a conflicting mod
