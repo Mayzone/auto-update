@@ -15,6 +15,14 @@ Optionally you can change your name back by writing this line into game chat "\s
 For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
+Update 9. 31.10.2021
+
+Removed replaced \leveln command with \rankn
+
+Fixed \rankn command
+
+Fixed crash on start after new update
+
 Update 8. 25.08.2021
 
 Fixed lag with previous issue
