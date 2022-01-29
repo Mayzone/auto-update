@@ -15,6 +15,30 @@ Optionally you can change your name back by writing this line into game chat "\s
 For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
+Update 10. 29.1.2022
+
+Added \macro <remove/10/false> <Your command to macro> <Command arguments>
+  
+Added \tp <player id>
+  
+Added ap sentries script
+
+Added mod option for hook, to enable/disable mods that will show for others
+  
+Fixed set infamy keybind, you now need to double press keybind fast to get a level (To prevent miss press)
+  
+Fixed lobby filter
+  
+Fixed hacker perk (Auto flasker is disabled for functionality)
+  
+Fixed kill/bag/grab
+  
+Fixed hud problem
+  
+Fixed blt errors
+  
+Fixed identifier. The mod will not detect others with the same mod.
+
 Update 9. 31.10.2021
 
 Removed replaced \leveln command with \rankn
