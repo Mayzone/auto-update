@@ -15,7 +15,7 @@ Optionally you can change your name back by writing this line into game chat "\s
 For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
-Update 10. 29.1.2022
+Update 10. 29.1.2022 (Require fresh install)
 
 Added \macro (remove/10/false)
 (Your command to macro)
