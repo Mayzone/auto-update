@@ -17,7 +17,9 @@ For more commands, checkout "\h".
 ----------------------------------------------------------------------
 Update 10. 29.1.2022
 
-Added \macro <remove/10/false> <Your command to macro> <Command arguments>
+Added \macro <remove/10/false> 
+<Your command to macro> 
+<Command arguments>
   
 Added \tp <player id>
   
