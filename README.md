@@ -21,7 +21,7 @@ Added \macro (remove/10/false)
 (Your command to macro)
 (Command arguments)
   
-Added \tp <player id>
+Added \tp (player id)
   
 Added ap sentries script
 
