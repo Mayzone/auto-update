@@ -17,7 +17,7 @@ For more commands, checkout "\h".
 ----------------------------------------------------------------------
 Update 11. 18.2.2022
 
-Added geolocating players in the lobby, support for more info by getting key from www.ipdata.co/ and pasteing it on line 11 in geolocator.lua
+Added geolocating players in the lobby, support for more info by getting key from www.ipdata.co/ and pasteing it on line 11 in geolocator.lua. You can remove the notice with \automsg
 
 Added notification on when you get cheater tag client side and maybe host side.
 
