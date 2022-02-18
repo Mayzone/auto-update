@@ -15,6 +15,12 @@ Optionally you can change your name back by writing this line into game chat "\s
 For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
+Update 11. 18.2.2022
+
+Added geolocating players in the lobby, support for more info by getting key from www.ipdata.co/ and pasteing it on line 11 in geolocator.lua
+
+Added notification on when you get cheater tag client side and maybe host side.
+
 Update 10. 29.1.2022 (Require fresh install)
 
 Added \macro (remove/10/false)
