@@ -23,7 +23,9 @@ Fixed \namen
 
 Fixed identifier
 
-Change how pager snatcher will only work when headshoting and fixed it not working for team.
+Change how pager snatcher will only work when headshoting and fixed it not working for team
+
+Some minor other fixes/changes
 
 Update 11. 18.2.2022
 
