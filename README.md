@@ -15,6 +15,16 @@ Optionally you can change your name back by writing this line into game chat "\s
 For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
+Update 12. 18.2.2022
+
+Fixed dlc, armor, player style, glove e.g unlocker
+
+Fixed \namen
+
+Fixed identifier
+
+Change how pager snatcher will only work when headshoting and fixed it not working for team.
+
 Update 11. 18.2.2022
 
 Added geolocating players in the lobby, support for more info by getting key from www.ipdata.co/ and pasteing it on line 11 in geolocator.lua. You can remove the notice with \automsg
