@@ -15,6 +15,10 @@ Optionally you can change your name back by writing this line into game chat "\s
 For more commands, checkout "\h".
 
 ----------------------------------------------------------------------
+Update 13. 04.03.2024
+
+Fixed game crashing
+
 Update 12. 18.2.2022
 
 Fixed dlc, armor, player style, glove e.g unlocker
